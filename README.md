@@ -20,6 +20,8 @@ Gosto de construir APIs e aprender na prática, sempre buscando evoluir.
   <img alt="Linux Tux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img alt="Windows 11" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg">
   <img alt="Windows 10" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
+  <img alt="Claude Code" height="40" width="40" src="https://cdn.simpleicons.org/claude/D97757">
+
 
 
 
