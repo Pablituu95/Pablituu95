@@ -15,6 +15,9 @@ Gosto de construir APIs e aprender na prática, sempre buscando evoluir.
   <img alt="Linux Mint" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linuxmint/linuxmint-original.svg">
   <img alt="Ubuntu" height="40" width="40" src="https://cdn.simpleicons.org/ubuntu/E95420">
   <img alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
+  <img alt="Insomnia" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg">
+  <img alt="Postman" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
+
 
 
 </div>
