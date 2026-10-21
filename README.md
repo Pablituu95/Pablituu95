@@ -31,4 +31,4 @@ Gosto de construir APIs e aprender na prática, sempre buscando evoluir.
   </a>
   <a href="https://github.com/Pablituu95">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>>
+  </a>
