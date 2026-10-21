@@ -42,6 +42,6 @@ Programando em Python e aprendendo cada vez mais sobre backend.
 
 ![Python](https://img.shields.io/badge/Python-Intermediário-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Estudando-009688)
-![SQL](https://img.shields.io/badge/SQL-Básico-4169E1)
+![SQL](https://img.shields.io/badge/SQL-Intermediário-4169E1)
 
 
