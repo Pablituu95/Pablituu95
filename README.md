@@ -2,8 +2,6 @@
 
 Programando em Python e aprendendo cada vez mais sobre backend.
 
-Atualmente mexendo com FastAPI, SQL e APIs.
-
 
 <br>
 
