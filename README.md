@@ -22,14 +22,13 @@ Gosto de construir APIs e aprender na prática, sempre buscando evoluir.
 
 ---
 
+<div> 
+  
+  <a href="https://www.instagram.com/offpablin._/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "pablotlmine@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-<p>
-  <a href="https://www.instagram.com/offpablin._/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="123" height="28" style="object-fit: contain;"></a>
-  &nbsp;
-  <a href="https://discord.com/users/1504375480344772635"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" width="123" height="28" style="object-fit: contain;"></a>
-  &nbsp;
-  <a href="https://github.com/Pablituu95"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="123" height="28" style="object-fit: contain;"></a>
-</p>
+</div>
 
 
 
