@@ -26,9 +26,11 @@ Gosto de construir APIs e aprender na prática, sempre buscando evoluir.
   <a href="https://www.youtube.com/">
     <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
-  <a href="href="https://www.instagram.com/offpablin._/">
+
+  <a href="https://www.instagram.com/offpablin._/">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
+
   <a href="https://www.twitch.tv/">
     <img src="https://img.shields.io/badge/TWITCH-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
   </a>
