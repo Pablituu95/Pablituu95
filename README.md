@@ -1,5 +1,5 @@
 
-# 👋 E aí! Eu sou o Pablo.
+#  E aí! Eu sou o Pablo.
 
 🐍 Backend com Python e FastAPI  
 🗄️ Bancos de dados e SQL  
