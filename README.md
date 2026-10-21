@@ -13,7 +13,7 @@ Gosto de construir APIs e aprender na prática, sempre buscando evoluir.
   <img alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img alt="GitHub" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img alt="Linux Mint" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linuxmint/linuxmint-original.svg">
-  <img alt="Ubuntu" height="30" width="40" src="https://cdn.simpleicons.org/ubuntu/E95420">
+  <img alt="Ubuntu" height="40" width="40" src="https://cdn.simpleicons.org/ubuntu/E95420">
 
 
 </div>
