@@ -24,8 +24,6 @@ Programando em Python e aprendendo cada vez mais sobre backend.
 
 
 
-
-
 </div>
 
 <br>
