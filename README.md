@@ -22,13 +22,13 @@ Gosto de construir APIs e aprender na prática, sempre buscando evoluir.
 
 ---
 
-
 <p>
-  <a href="https://www.instagram.com/offpablin._/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelWidth=100" alt="Instagram"></a>
+  <a href="https://www.instagram.com/offpablin._/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="123" height="28"></a>
   &nbsp;
-  <a href="https://discord.com/users/1504375480344772635"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelWidth=100" alt="Discord"></a>
+  <a href="https://discord.com/users/1504375480344772635"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" width="123" height="28"></a>
   &nbsp;
-  <a href="https://github.com/Pablituu95"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelWidth=100" alt="GitHub"></a>
+  <a href="https://github.com/Pablituu95"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="123" height="28"></a>
 </p>
+
 
 
