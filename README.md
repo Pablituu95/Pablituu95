@@ -1,7 +1,9 @@
-# Oiii! Eu sou o Pablo, desenvolvedor em formação! 👋
+#👋 E aí! Eu sou o Pablo.
 
-Estou estudando desenvolvimento backend com Python, FastAPI e bancos de dados.  
-Gosto de construir APIs e aprender na prática, sempre buscando evoluir.
+🐍 Backend com Python e FastAPI
+🗄️ Bancos de dados e SQL
+🔌 Desenvolvimento de APIs REST
+🚀 Aprendendo na prática, construindo projetos e evoluindo todos os dias.
 
 <br>
 
