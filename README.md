@@ -22,13 +22,15 @@ Gosto de construir APIs e aprender na prática, sempre buscando evoluir.
 
 ---
 
-  <a href="https://www.instagram.com/offpablin._/">
+<div>
+  <a href="https://www.instagram.com/offpablin._/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-
-  <a href="https://discord.com/users/1504375480344772635">
+  <a href="https://discord.com/users/1504375480344772635" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
-  <a href="https://github.com/Pablituu95">
+  <a href="https://github.com/Pablituu95" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
+</div>
+
