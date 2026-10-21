@@ -1,10 +1,8 @@
+#  E aí, sou o Pablo 👋
 
-#  E aí! Eu sou o Pablo.
+Programando em Python e aprendendo cada vez mais sobre backend.
 
-🐍 Backend com Python e FastAPI  
-🗄️ Bancos de dados e SQL  
-🔌 Desenvolvimento de APIs REST  
-🚀 Aprendendo na prática, construindo projetos e evoluindo todos os dias.
+Atualmente mexendo com FastAPI, SQL e APIs.
 
 
 <br>
